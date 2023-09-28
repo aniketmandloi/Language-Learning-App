@@ -68,7 +68,7 @@ Before you begin, ensure you have met the following requirements:
     # In the server directory
         npm start
 
-Access the application in your web browser at http://localhost:3000.
+Access the application in your web browser at http://localhost:5000.
 
 Usage
 Register for an account or log in.
